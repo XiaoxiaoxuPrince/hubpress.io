@@ -5,6 +5,26 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://XiaoxiaoxuPrince.github.io",
+    "hubpress": "https://blog.zhanghengxu.top",
+    "theme": "//XiaoxiaoxuPrince.github.io/themes/casper",
+    "images": "https://XiaoxiaoxuPrince.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
   }
 }
