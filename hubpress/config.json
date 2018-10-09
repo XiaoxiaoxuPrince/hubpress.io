@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://XiaoxiaoxuPrince.github.io",
+    "site": "http://blog.zhanghengxu.top",
     "hubpress": "https://blog.zhanghengxu.top",
-    "theme": "//XiaoxiaoxuPrince.github.io/themes/casper",
-    "images": "https://XiaoxiaoxuPrince.github.io/images"
+    "theme": "//blog.zhanghengxu.top/themes/casper",
+    "images": "http://blog.zhanghengxu.top/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
@@ -29,8 +29,8 @@
     ]
   },
   "site": {
-    "title": "",
-    "description": "",
+    "title": "小小旭的私人博客",
+    "description": "Testtest",
     "logo": "",
     "cover": "",
     "delay": "",
